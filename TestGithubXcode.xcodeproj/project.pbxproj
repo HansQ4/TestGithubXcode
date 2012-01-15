@@ -35,19 +35,19 @@
 		3AE3EAE814C303D3003D43EB /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		3AE3EAE914C303D3003D43EB /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		3AE3EAEA14C303D3003D43EB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		3AE3EAED14C303D3003D43EB /* TestGithubXcode-Info.plist */ = {isa = PBXFileReference; path = "TestGithubXcode-Info.plist"; sourceTree = "<group>"; };
+		3AE3EAED14C303D3003D43EB /* TestGithubXcode-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestGithubXcode-Info.plist"; sourceTree = "<group>"; };
 		3AE3EAEF14C303D3003D43EB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3AE3EAF114C303D3003D43EB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3AE3EAF314C303D3003D43EB /* TestGithubXcode-Prefix.pch */ = {isa = PBXFileReference; path = "TestGithubXcode-Prefix.pch"; sourceTree = "<group>"; };
+		3AE3EAF314C303D3003D43EB /* TestGithubXcode-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestGithubXcode-Prefix.pch"; sourceTree = "<group>"; };
 		3AE3EAF514C303D3003D43EB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		3AE3EAF714C303D3003D43EB /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		3AE3EAF714C303D3003D43EB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3AE3EAF814C303D3003D43EB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3AE3EAFB14C303D3003D43EB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		3AE3EB0214C303D3003D43EB /* TestGithubXcodeTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGithubXcodeTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AE3EB0314C303D3003D43EB /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		3AE3EB0A14C303D3003D43EB /* TestGithubXcodeTests-Info.plist */ = {isa = PBXFileReference; path = "TestGithubXcodeTests-Info.plist"; sourceTree = "<group>"; };
+		3AE3EB0A14C303D3003D43EB /* TestGithubXcodeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestGithubXcodeTests-Info.plist"; sourceTree = "<group>"; };
 		3AE3EB0C14C303D3003D43EB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3AE3EB0E14C303D3003D43EB /* TestGithubXcodeTests.h */ = {isa = PBXFileReference; path = TestGithubXcodeTests.h; sourceTree = "<group>"; };
+		3AE3EB0E14C303D3003D43EB /* TestGithubXcodeTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGithubXcodeTests.h; sourceTree = "<group>"; };
 		3AE3EB0F14C303D4003D43EB /* TestGithubXcodeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGithubXcodeTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
